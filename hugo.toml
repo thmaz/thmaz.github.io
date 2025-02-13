@@ -1,5 +1,5 @@
 # Basic metadata configuration for your blog.
-baseURL = 'https://thmaz.github.io/'
+baseURL = "https://thmaz.github.io/"
 title = "thmaz' blog"
 author = "Thomas Palmen"
 copyright = "Copyright © 2020, Jane Doe."
@@ -7,6 +7,9 @@ languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
+
+[permalinks]
+  blog = "/:filename"
 
 [params]
   homeText = "Learning computers inside and out."

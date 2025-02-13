@@ -2,11 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on thmaz&#39; blog</title>
-    <link>http://localhost:41005/tags/</link>
+    <link>http://localhost:37295/tags/</link>
     <description>Recent content in Tags on thmaz&#39; blog</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <atom:link href="http://localhost:41005/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Feb 2025 16:59:05 +0100</lastBuildDate>
+    <atom:link href="http://localhost:37295/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C</title>
+      <link>http://localhost:37295/tags/c/</link>
+      <pubDate>Thu, 13 Feb 2025 16:59:05 +0100</pubDate>
+      <guid>http://localhost:37295/tags/c/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datastructs</title>
+      <link>http://localhost:37295/tags/datastructs/</link>
+      <pubDate>Thu, 13 Feb 2025 16:59:05 +0100</pubDate>
+      <guid>http://localhost:37295/tags/datastructs/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
