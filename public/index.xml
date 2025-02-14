@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Thu, 13 Feb 2025 16:59:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 08:47:31 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trees by Joyce Kilmer</title>
+      <link>http://localhost:1313/trees-by-joyce-kilmer/</link>
+      <pubDate>Fri, 14 Feb 2025 08:47:31 +0100</pubDate>
+      <guid>http://localhost:1313/trees-by-joyce-kilmer/</guid>
+      <description>&lt;p&gt;I think that I shall never see&#xA;A poem lovely as a tree.&lt;/p&gt;&#xA;&lt;p&gt;A tree whose hungry mouth is prest&#xA;Against the earth&amp;rsquo;s sweet flowing breast;&lt;/p&gt;&#xA;&lt;p&gt;A tree that looks at God all day,&#xA;And lifts her leafy arms to pray;&lt;/p&gt;&#xA;&lt;p&gt;A tree that may in Summer wear&#xA;A nest of robins in her hair;&lt;/p&gt;&#xA;&lt;p&gt;Upon whose bosom snow has lain;&#xA;Who intimately lives with rain.&lt;/p&gt;&#xA;&lt;p&gt;Poems are made by fools like me,&#xA;But only God can make a tree.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>That It Will Never Come Again by Emily Dickinson</title>
+      <link>http://localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</link>
+      <pubDate>Fri, 14 Feb 2025 08:46:32 +0100</pubDate>
+      <guid>http://localhost:1313/that-it-will-never-come-again-by-emily-dickinson/</guid>
+      <description>&lt;p&gt;That it will never come again&#xA;Is what makes life so sweet.&#xA;Believing what we don&amp;rsquo;t believe&#xA;Does not exhilarate.&lt;/p&gt;&#xA;&lt;p&gt;That if it be, it be at best&#xA;An ablative estate &amp;ndash;&#xA;This instigates an appetite&#xA;Precisely opposite.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Hashmaps</title>
       <link>http://localhost:1313/hashmaps/</link>

@@ -11,5 +11,24 @@ enableRobotsTXT = true
 [permalinks]
   blog = "/:filename"
 
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+
 [params]
   homeText = "Learning computers inside and out."
